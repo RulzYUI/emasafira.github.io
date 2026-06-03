@@ -445,8 +445,7 @@ Discover dramatic cliffs, crystal-clear waters and breathtaking landscapes.
 
 </section>
 
-</body>
-</html>
+
 <style>
 
 /* ======================
@@ -1025,3 +1024,6 @@ p{
     </div>
 
 </section>
+
+</body>
+</html>
